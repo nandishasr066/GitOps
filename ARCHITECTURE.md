@@ -1,3 +1,7 @@
+# playlist: https://www.youtube.com/playlist?list=PLaZfMOMvbDObZYvV8lxDjrLnmfMzKmZaH
+
+
+
 # Microservices E-Commerce Architecture
 
 A cloud-native e-commerce platform with 13 microservices written in multiple languages, deployed on Kubernetes via GitOps (ArgoCD + Kustomize).
