@@ -29,7 +29,7 @@ spec:
               - ALL
           privileged: false
           readOnlyRootFilesystem: true
-        image: manojkrishnappa/recommendationservice:d640d95241d47304e0b9d0a383480e7e8461c685
+        image: nandishasrn/recommendationservice:f2076830e0ecb9bf1116813d474037be23fa3785
         ports:
         - containerPort: 8080
         readinessProbe:
